@@ -1,0 +1,3 @@
+﻿  20181204.cpp
+c:\cprograming\2017440103_이승주\20181204\20181204.cpp(39): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  20181204.vcxproj -> C:\CPrograming\2017440103_이승주\Debug\20181204.exe
